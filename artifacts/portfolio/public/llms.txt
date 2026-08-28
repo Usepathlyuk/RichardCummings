@@ -1,0 +1,80 @@
+# Richard Cummings — Professional Profile
+
+## Identity
+- Name: Richard Cummings
+- Location: Milton Keynes, United Kingdom
+- Email: richard@richardcummings.co.uk
+- LinkedIn: https://www.linkedin.com/in/cummings-richard
+- Portfolio: https://richardcummings.co.uk
+- SaaS product: https://usepathly.com
+
+## Professional Summary
+Richard Cummings is an IT Asset & Configuration Leader with over 15 years of experience in IT operations, service delivery, and logistics across global enterprises. He specialises in IT Asset Management (ITAM), Configuration Management Databases (CMDB), hardware provisioning, and vendor SLA management for MSP environments supporting 20,000+ end-users. Alongside his operational career he founded and launched UsePathly.com — an AI-powered SaaS career platform — entirely solo, from strategy and UX design through to AI integration and live paying customers.
+
+## Career History (most recent first)
+
+### Asset and Configuration Lead — Ekco Cloud & Security (Global MSP)
+Dec 2025 – Apr 2026
+Led a team of 8 (Logistics Specialists, Build Engineers, Asset & Configuration Manager, Endpoint & Applications Managers). Owned full ITAM, CMDB governance, stock logistics, hardware provisioning, and user onboarding for 20,000+ external end-users. Led end-to-end migration from AssetTrac to FreshService CMDB. Managed vendor SLAs and implemented user onboarding automation.
+
+### Founder & Product Lead — UsePathly.com
+Jul 2025 – Present
+Founded and launched UsePathly.com, an AI-driven B2C SaaS career platform with 25+ AI-powered tools (ATS-optimised Resume Builder, Skill Gap Analysis, Interview Preparation, LinkedIn Optimiser, and more). Built entirely solo. Live with paying customers. Pricing: free tier + £11/month premium.
+
+### Service Delivery Coordinator — Ekco Cloud & Security (Global MSP)
+Jun 2025 – Nov 2025
+Owned hardware provisioning lifecycle from build and configuration to client dispatch. Worked daily in FreshService and ServiceNow. Maintained IT asset inventories and coordinated between technical teams, suppliers, and clients for SLA compliance.
+
+### Operations Controller — Biffa Waste
+Nov 2023 – May 2025
+Reduced customer churn from 14.5% to 3.8% — 68% better than the national depot average. Achieved through data analysis, driver schedule optimisation, and service improvements.
+
+### Operations Manager — Biffa Waste
+Feb 2022 – Oct 2023
+Led a team of 6 transport managers with full P&L ownership. Drove customer satisfaction and business growth in a competitive logistics sector.
+
+### Lead Account Manager — Yusen Logistics
+Jan 2021 – Feb 2022
+Managed a £5.2 million portfolio and led a team of 4 international transport managers. Improved NPS by 15% in 6 months. Key accounts included Pfizer and Moderna.
+
+### Independent Logistics Consultant — Freelance
+May 2018 – Dec 2020
+Advised SMBs on operational streamlining. Implemented Paradigm Routing SaaS software for logistics optimisation.
+
+### Head of Logistics & Regional Manager — Furniture Village
+Aug 2014 – Apr 2018
+Managed 31-person transport team, 18 depots, full budget ownership. £1M+ revenue contribution. CSAT 4.5/5 from 7,200+ B2C customers.
+
+## Key Skills
+- IT Asset Management (ITAM)
+- Configuration Management Database (CMDB) and CMDB Migration
+- FreshService, ServiceNow, AssetTrac, Microsoft Intune, Mosyle
+- Hardware Provisioning and Device Lifecycle Management
+- User Provisioning and Onboarding Automation
+- IT Service Management (ITSM)
+- Operations Management and Logistics
+- Vendor and SLA Management
+- Team Leadership and Stakeholder Management
+- SaaS Product Development and AI Integration
+- Budget Management and P&L Ownership
+
+## Certifications
+- FreshService Advanced Certification (January 2026)
+- Freshdesk Expert Certification (January 2026)
+- ITIL® 4 Foundation (Studying — Target Q3 2026)
+- Customer Success Management (CSM) Level 1 (Studying)
+
+## Education
+- Edexcel National Diploma in IT Practitioner — Milton Keynes College, 2005
+- 10 GCSEs (Grades A–B) — Ousedale School, 2003
+
+## Key Metrics
+- 20,000+ end-users supported across MSP environments
+- 15+ years of professional experience
+- Churn reduced from 14.5% to 3.8% (68% better than national average)
+- £5.2M portfolio managed at Yusen Logistics
+- 7,200+ B2C customers with CSAT score of 4.5/5
+- NPS improved by 15% within 6 months
+- 18 depots managed as Head of Logistics
+- £1M+ revenue contribution at Furniture Village
+- 31-person team managed

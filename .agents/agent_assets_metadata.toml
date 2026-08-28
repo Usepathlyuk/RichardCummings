@@ -1,0 +1,8 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "4BT7y-TT_zmrn6wbalfEb"
+uri = "file://artifacts/portfolio/public/hero-bg.png"
+type = "image"
+title = "Abstract deep navy tech gradient"
